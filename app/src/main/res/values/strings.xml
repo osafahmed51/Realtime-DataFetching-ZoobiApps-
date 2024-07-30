@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task(Osaf)</string>
+    <string name="gotoconversion">Go to Conversion</string>
+    <string name="splashtxt">Splash Screen</string>
+    <string name="appOpenAdsss">ca-app-pub-3940256099942544/9257395921</string>
+    <string name="nativeadsid">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="ad_attribution">Ad</string>
+
+</resources>
